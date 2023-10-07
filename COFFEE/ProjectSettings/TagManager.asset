@@ -4,9 +4,7 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Fire
-  - FlMW
-  - FLAME
+  - Flame
   layers:
   - Default
   - TransparentFX
@@ -49,4 +47,7 @@ TagManager:
     locked: 0
   - name: Gameplay
     uniqueID: 2577571115
+    locked: 0
+  - name: text background sex
+    uniqueID: 94078551
     locked: 0

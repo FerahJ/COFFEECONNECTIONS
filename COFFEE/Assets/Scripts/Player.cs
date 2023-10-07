@@ -7,6 +7,8 @@ public class Player : MonoBehaviour
     public float moveSpeed;
     Rigidbody2D rb;
 
+    public static int score;
+
     // Start is called before the first frame update
     void Start()
     {
